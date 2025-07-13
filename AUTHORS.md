@@ -1,4 +1,4 @@
-# Credits
+# Credits!
 
 Aseprite is being developed and maintained currently by [Igara Studio](https://igara.com/).
 The active team of developers is:
