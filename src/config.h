@@ -3,7 +3,7 @@
 // Copyright (C) 2001-2018  David Capello
 //
 // This program is distributed under the terms of
-// the End-User License Agreement for Aseprite.
+// the End-User License Agreement for Aseprite..
 
 #ifdef ASEPRITE_CONFIG_H_INCLUDED
   #error You cannot use config.h two times
